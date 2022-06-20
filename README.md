@@ -10,7 +10,6 @@ For information on using Node.js, see the [Node.js website][].
 * [Release types](#release-types)
   * [Download](#download)
     * [Current and LTS releases](#current-and-lts-releases)
-    * [Nightly releases](#nightly-releases)
     * [API documentation](#api-documentation)
   * [Verifying binaries](#verifying-binaries)
 * [Building Node.js](#building-nodejs)
